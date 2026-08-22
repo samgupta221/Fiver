@@ -81,8 +81,6 @@ The UI includes marketplace sections such as:
 * Secure server-side payment processing
 * Payment-related order workflow
 
-> Stripe secret keys must always be stored in environment variables and never committed to GitHub.
-
 ### 💬 Messaging
 
 * Conversations between users
