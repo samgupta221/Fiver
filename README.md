@@ -277,6 +277,3 @@ This project demonstrates practical experience with:
 * Responsive UI development
 
 ---
-## ⚠️ Disclaimer
-
-This project is an educational **Fiverr-inspired marketplace clone** created for learning and portfolio purposes. It is not affiliated with or endorsed by Fiverr.
